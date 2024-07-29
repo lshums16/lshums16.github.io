@@ -53,7 +53,7 @@ education:
   - area: MS Electrical and Computer Engineering
     institution: Brigham Young University
     date_start: 2023-09-05
-    date_end: Present
+    date_end: 2025-04-24
     # TODO: summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # TODO: button:
