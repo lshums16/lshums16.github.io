@@ -169,4 +169,4 @@ awards:
 
 ## About Me
 
-Landon Shumway is a graduate research assistant in the __M__ultiple __AG__ent __I__ntelligent __C__oordination and __C__ontrol (MAGICC) Lab. His research focuses on cooperative control of multi-agent autonomous systems, and his current work centers around minimum-time B-Spline trajectory generation with dynamics constraints.
+Landon Shumway is a graduate research assistant in the **M**ultiple **AG** ent __I__ ntelligent __C__oordination and __C__ontrol (MAGICC) Lab. His research focuses on cooperative control of multi-agent autonomous systems, and his current work centers around minimum-time B-Spline trajectory generation with dynamics constraints.
