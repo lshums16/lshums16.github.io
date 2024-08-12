@@ -169,4 +169,4 @@ awards:
 
 ## About Me
 
-Landon Shumway is a graduate research assistant in the **M**ultiple **AG**ent **I**ntelligent **C**oordination and **C**ontrol (MAGICC) Lab at Brigham Young University. His research focuses on cooperative control of multi-agent autonomous systems, and his current work centers around minimum-time B-Spline trajectory generation with dynamics constraints.
+Landon Shumway is a graduate research assistant in the **M**ultiple **AG**ent **I**ntelligent **C**oordination and **C**ontrol (MAGICC) Lab at Brigham Young University. His research focuses on cooperative control of multi-agent autonomous systems, and his current work centers around multi-agent, time-synchronized B-Spline trajectory generation with dynamic constraints.
