@@ -46,7 +46,7 @@ profiles:
 
 interests:
   - Guidance, Navigation, and Control (GNC)
-  - Mult-agent Autonomous Systems
+  - Multi-agent Autonomous Systems
   - Mobile Robotics 
 
 education:
