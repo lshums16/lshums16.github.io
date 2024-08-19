@@ -2,7 +2,7 @@
 title: Card-Dealing Robot
 date: 2023-04-23
 summary: Table-top robot that accepts user input and mechanically deals playing cards accordingly
-draft: true #TODO:  DELETE
+draft: false
 preview_only: true
 tags:
   - Mechatronics
