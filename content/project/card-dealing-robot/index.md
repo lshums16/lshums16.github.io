@@ -30,7 +30,7 @@ As a semester project, I designed a table-top robot that can deal out playing ca
 - Programming in C (Arduino)
 - 3D printing
 
-![screen reader text](featured.png)
+![screen reader text](still-pic.png)
 
 Extensive CAD design was required to mount and connect both electrical and mechanical components. The robot consisted of an Arduino Uno, stepper motors, an LCD screen, and a QRD sensor. Structural components were 3D printed.
 
