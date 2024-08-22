@@ -1,11 +1,11 @@
 ---
-title: Square Root SAM
-date: 2023-12-23
-summary: Factor graph-based offline SLAM method
+title: EKF-based SLAM
+date: 2023-11-23
+summary: EKF-based SLAM algorithm with unknown data association
 preview_only: true
 tags:
   - SLAM
-  - Factor graphs
+  - EKF
   - State estimation
   - Mobile Robotics
   - Data Association
@@ -26,7 +26,7 @@ image:
 As a semester project, another student and I implemented [this paper](https://journals.sagepub.com/doi/abs/10.1177/0278364906072768?casa_token=pN7fAOwwlNkAAAAA:xKHvBlwOmA85TjnqGrDAXJuP4rMFblq04_ujgPm3OZN5w3V_GW1w1iO37ldpOapQezLfnxLLRWhfzTk), which develops an offline, factor graph-based SLAM algorithm called Square Root SAM. This method estimates both the state of a mobile robot over time and the locations of stationary landmarks based on noisy sensor data and imperfect motion commands.
 
 
-My implementation of this project is kept private on Github. This project involved skills in:
+To maintain academic integrity, my implementation of this method is kept private in a Github repository. This project involved skills in:
 
 - State estimation
 - SLAM
@@ -34,7 +34,7 @@ My implementation of this project is kept private on Github. This project involv
 - Dynamics Systems
 - Python
 
-The following figures show the performance of Square Root SAM (top) over an EKF-based SLAM method (bottom). Both algorithms were run offline on the same data set. 
+The following figures show the performance of Square Root SAM (top) over an EKF-based SLAM method (bottom). Both algorithms were run offline on the same data set. One benefit of the offline Square Root SAM method over the online EKF-based algorithm is that it can use future sensor data and data association to estimate the entire history of the robot's trajectory.
 
 ![screen reader text](featured.png)
 
