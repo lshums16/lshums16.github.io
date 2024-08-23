@@ -1,14 +1,13 @@
 ---
-title: Square Root SAM
-date: 2023-12-23
-summary: Factor graph-based offline SLAM method
+title: Particle Filter
+date: 2023-10-23
+summary: Particle filter localization for a mobile robot within an occupancy grid map.
 preview_only: true
 tags:
-  - SLAM
-  - Factor graphs
+  - Particle filter localization
   - State estimation
   - Mobile Robotics
-  - Data Association
+  - Occupancy grid mapping
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -19,23 +18,15 @@ tags:
 image:
   placement: 2
   focal_point: 'Center'
-  preview_only: true
+  preview_only: false
   # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
 
-As part of a class project, I implemented an online, EKF-based SLAM algorithm in a simulated robot soccer environment as well as on the Victoria Park dataset. This method estimates both the current state of a mobile robot and the locations of stationary landmarks based on noisy sensor data and imperfect motion commands.
+As part of a class project, I implemented an online particle filter localization algorithm in simulation for a robot moving through an environment represented by a pre-known occupancy grid map. The simulated robot was equipped with a noisy laser range finder.
 
 To maintain academic integrity, my implementation of this method is kept private in a Github repository. This project involved skills in:
 
 - State estimation
-- SLAM
 - Probability theory
-- Data association
 - Dynamic systems
 - Python
-
-The following figures show the performance of the SLAM algorithm for robot soccer (top) and the Victoria Park dataset (bottom). In both cases, data association algorithms were run to associate measurements with known/new landmarks.
-
-![screen reader text](featured.gif)
-
-![screen reader text](video_task2.gif)

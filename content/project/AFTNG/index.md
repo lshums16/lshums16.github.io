@@ -35,7 +35,7 @@ My implementation of the three guidance laws can be found [here](https://github.
 - Nonlinear control
 - Adaptive control
 - Lyapunov stability analysis
-- Programming in Python
+- Python
 
 As shown in the GIF above, all three guidance laws successfully hit the target, but they do so at different times. Further analysis showed that more extreme acceleration profiles of the target resulted in higher success for FTCG and AFTNG in comparison with PNG. 
 
