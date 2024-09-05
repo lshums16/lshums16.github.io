@@ -30,6 +30,7 @@ To maintain academic integrity, my implementation of this method is kept private
 
 - State estimation
 - SLAM
+- Probability theory
 - Data Association
 - Dynamics Systems
 - Python

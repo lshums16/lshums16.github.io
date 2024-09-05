@@ -27,7 +27,7 @@ As a class project, I implemented [this paper](https://ieeexplore.ieee.org/docum
 - Cooperative control
 - Consensus in multi-agent systems
 - Multi-agent rendezvous and formation control
-- Programming in Python
+- Python
 
 My implementation of these methods can be found [here](https://github.com/lshums16/Connectedness-with-Rendezvous-and-Formation-Control).
 

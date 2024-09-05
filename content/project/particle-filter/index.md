@@ -4,8 +4,8 @@ date: 2023-10-23
 summary: Particle filter localization for a mobile robot within an occupancy grid map.
 preview_only: true
 tags:
-  - Particle filter localization
   - State estimation
+  - Particle filter localization
   - Mobile Robotics
   - Occupancy grid mapping
 
